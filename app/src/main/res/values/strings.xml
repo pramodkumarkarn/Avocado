@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Avocado</string>
+    <string name="background">background</string>
+    <string name="enter_your_email_address">Enter your email address...</string>
+    <string name="enter_a_password">Enter a password!</string>
+    <string name="icon">icon</string>
+    <string name="button">button</string>
+    <string name="somethings_work_better_in_pairs">Somethings work better in pairs.</string>
+    <string name="your_avocado_profile_is_ready">Your avocado profile is ready!!</string>
+    <string name="email_id">Email Id:</string>
+    <string name="select">select</string>
+    <string name="let_the_cupid_know_where_to_go">Let the cupid know where to go...</string>
+    <string name="and_your_zip_code">and your Zip Code</string>
+    <string name="you_had_me_at_hello">You had me at hello!</string>
+    <string name="how_tall_are_you">How tall are you?</string>
+    <string name="birthday">Birthday?</string>
+    <string name="gender_details">Gender details</string>
+    <string name="next">Next</string>
+    <string name="i_live_in">I live in</string>
+    <string name="you_can_call_me_on">You can call me on</string>
+    <string name="i_was_born_on">I was born on</string>
+    <string name="i_am">I am</string>
+    <string name="hey_i_am">Hey, I am</string>
+    <string name="my_race_is">My race is</string>
+    <string name="ft_tall">ft tall</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="tell_us_how_amazing_you_look"><![CDATA[Tell us how amazing you look ->]]></string>
+
+    <string name="you_look_amazing">You look amazing!</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="you_look_amazing2"><![CDATA[You look amazing! ->]]></string>
+    <string name="gender_and_age_range_you_want_to_date">Gender and age range you want to date?</string>
+    <string name="i_am_interested_in">I am interested in</string>
+    <string name="if_only_looks_could_kill">If only looks could kill!!</string>
+    <string name="upload">Upload</string>
+    <string name="todo">TODO</string>
+    <string name="register_and_find_me_a_date">Register, and find me a date!!</string>
+    <string name="tring_tring_you_had_me_at_hello">Tring Tring! You had me at hello!!</string>
+    <string name="let_the_cupid_know_your_city_name">Let the cupid know your city name..</string>
+    <string name="gender_male_female_other">Gender (male, female, other)</string>
+
+
+    <string-array name="race_array">
+        <item>Select a race</item>
+        <item>American Indian</item>
+        <item>Asian</item>
+        <item>African Amrican or Black</item>
+        <item>Pacific Islander or Native Hawaiian</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Interested in..</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>All</item>
+    </string-array>
+</resources>
